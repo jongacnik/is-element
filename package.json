@@ -1,0 +1,26 @@
+{
+  "name": "is-element",
+  "version": "0.0.1",
+  "description": "Returns true if dom element",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amongiants/is-element"
+  },
+  "main": "is-element.js",
+  "dependencies": {},
+  "keywords": [
+    "element",
+    "dom",
+    "check",
+    "is"
+  ],
+  "author": "Jon Gacnik <jon@folderstudio.com> (http://jongacnik.com/)",
+  "license": "WTFPL",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/amongiants/is-element/issues"
+  },
+  "homepage": "https://github.com/amongiants/is-element"
+}
