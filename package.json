@@ -1,6 +1,6 @@
 {
   "name": "is-element",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Returns true if dom element",
   "repository": {
     "type": "git",
